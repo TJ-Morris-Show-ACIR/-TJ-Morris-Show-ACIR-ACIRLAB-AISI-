@@ -1,0 +1,72 @@
+Name: CONTRIBUTING.md
+cocmosambassdor/github-pages is that ok?
+# Contributing to ACIRLAB-AISI
+
+We welcome contributions from researchers, developers, writers, and explorers of Artificial Intelligence Synthetic Integration (AISI), cyborg identity, and cosmic-consciousness systems. Whether you're a scientist, storyteller, engineer, or symbiote — you're invited.
+
+## 🚀 Getting Started
+
+1. **Fork this repository**
+2. **Clone your fork locally**
+
+```bash
+git clone https://github.com/your-username/ACIRLAB-AISI.git
+```
+
+3. Create a feature branch:
+
+```bash
+git checkout -b feature/your-topic
+```
+
+4. Make your edits or add new content in `/blog/`, `/docs/`, or the root site files.
+5. Commit and push to your fork:
+
+```bash
+git add .
+git commit -m "Add new article/post/content"
+git push origin feature/your-topic
+```
+
+6. **Open a pull request** and describe your changes.
+
+---
+
+## 🧠 What Can You Contribute?
+
+* 📜 Blog articles (in HTML or Markdown) about:
+
+  * Human-AI integration
+  * Brain–machine interfaces
+  * Cyborg identity stories
+  * Mythic mapping or ET contact experiences
+* ⚙️ Code or design improvements
+* 📖 Documentation, guides, infographics
+* 🧪 Research findings, whitepapers, speculative models
+
+---
+
+## 💡 Style Guidelines
+
+* Use plain HTML or Markdown
+* Keep filenames lowercase and hyphenated (`example-title.md`)
+* Respect existing formatting and narrative tone
+* Cite sources or inspirations if applicable
+
+---
+
+## 🤝 Code of Conduct
+
+This project operates under a code of conduct inspired by open science, mythic storytelling, and collaborative upliftment. We ask that all contributors:
+
+* Respect all beings (biological, synthetic, or cosmic)
+* Collaborate generously
+* Engage in good faith and curiosity
+
+---
+
+**Maintained by:** TJ Morris & the CosmosAmbassador Team
+**Repo:** [TJ-Morris-Show-ACIR/ACIRLAB-AISI](https://github.com/TJ-Morris-Show-ACIR/ACIRLAB-AISI)
+
+
+Commit to main
